@@ -1,4 +1,4 @@
-<h1 align="center"># 👋 Hi there, I'm Baptiste</h1>
+<h1 align="center">👋 Hi there, I'm Baptiste</h1>
 
 🎮 **AI Programmer** in the video game industry at [Cyanide Studio](https://www.cyanide-studio.com/)  
 🛠 Part of the **BFME: Reforged** [**BFME: Reforged**](https://www.youtube.com/watch?v=MLLQLfExank) development team  
@@ -23,7 +23,8 @@ Always curious, always experimenting, and always up for a challenge. 🚀
 ---
 
 ## 🛠️ Tech & Tools
-
+<p align="center">
+  
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
@@ -55,6 +56,7 @@ Always curious, always experimenting, and always up for a challenge. 🚀
 ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=jira&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0FFF?logo=azuredevops&logoColor=white)
 
+</p>
 ---
 
 ## 📌 Current Projects
