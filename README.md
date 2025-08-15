@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Baptiste
+<h1 align="center"># 👋 Hi there, I'm Baptiste</h1>
 
 🎮 **AI Programmer** in the video game industry at [Cyanide Studio](https://www.cyanide-studio.com/)  
 🛠 Part of the **BFME: Reforged** [**BFME: Reforged**](https://www.youtube.com/watch?v=MLLQLfExank) development team  
