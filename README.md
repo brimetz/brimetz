@@ -46,8 +46,8 @@ Beyond development, I also lecture in higher education, sharing my knowledge and
 ## 📌 Current Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎬 **Movie Recommendation System** | Movie recommendations with NLP + ML | [View repo]([https://github.com/brimetz/MovieRecommenderSystem]) |
-| 🛠 **CI/CD Pipeline** | Automated testing and deployment | [View repo]([https://github.com/brimetz/MovieRecommenderSystem]) |
+| 🎬 **Movie Recommendation System** | Movie recommendations with NLP + ML | [View repo](https://github.com/brimetz/MovieRecommenderSystem) |
+| 🛠 **CI/CD Pipeline** | Automated testing and deployment | [View repo](https://github.com/brimetz/MovieRecommenderSystem) |
 | 🎮 **BFME: Reforged** | AI development for a classic RTS remake (Fan project) | *(Private project)* |
 
 ---
