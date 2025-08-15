@@ -79,4 +79,3 @@ Always curious, always experimenting, and always up for a challenge. 🚀
 ## 📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([URL_DE_TON_LINKEDIN](https://www.linkedin.com/in/baptiste-rimetz/))
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:baptiste.rimetz@outlook.fr)
-[![CV](https://img.shields.io/badge/-My%20Resume-FF5722?logo=adobeacrobatreader&logoColor=white)](YOUR_CV_URL)
