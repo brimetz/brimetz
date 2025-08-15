@@ -24,14 +24,11 @@ Beyond development, I also lecture in higher education, sharing my knowledge and
 ---
 
 ## 🛠️ Tech & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
 ![Perforce](https://img.shields.io/badge/-Perforce-404040?logo=perforce&logoColor=white)
@@ -49,8 +46,8 @@ Beyond development, I also lecture in higher education, sharing my knowledge and
 ## 📌 Current Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎬 **Movie Recommendation System** | Movie recommendations with NLP + ML | [View repo]([YOUR_REPO_URL](https://github.com/brimetz/MovieRecommenderSystem)) |
-| 🛠 **CI/CD Pipeline** | Automated testing and deployment | [View repo]([YOUR_REPO_URL](https://github.com/brimetz/MovieRecommenderSystem)) |
+| 🎬 **Movie Recommendation System** | Movie recommendations with NLP + ML | [View repo]([https://github.com/brimetz/MovieRecommenderSystem]) |
+| 🛠 **CI/CD Pipeline** | Automated testing and deployment | [View repo]([https://github.com/brimetz/MovieRecommenderSystem]) |
 | 🎮 **BFME: Reforged** | AI development for a classic RTS remake (Fan project) | *(Private project)* |
 
 ---
