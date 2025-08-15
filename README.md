@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Baptiste]  
+# 👋 Hi there, I'm Baptiste
 
 🎮 **AI Programmer** in the video game industry at [Cyanide Studio](https://www.cyanide-studio.com/)  
 🛠 Part of the **BFME: Reforged** development team  
@@ -12,34 +12,50 @@
 
 ---
 
-## 🚀 About Me
-I’m a software engineer with a strong background in AI and video game development, now expanding my expertise towards broader software engineering challenges.  
+## About Me
 
-With several years of experience designing complex systems — including projects in the military and defense sector — I thrive on solving problems, creating innovative solutions, and adapting quickly to new technologies. My work spans from AI logic and interactive systems to building user-focused applications and robust software pipelines.  
+I'm a software engineer with a background in video games and defense. I love tackling tricky problems, learning new tech, and building things that just work.  
 
-I’m driven by curiosity, a passion for learning, and the ambition to develop impactful, reliable, and scalable software solutions.  
+Lately, I've been diving deeper into software engineering, exploring CI/CD, DevOps, and sharpening my SQL skills. Outside of coding, I’ve contributed to projects like BFME Reforged and even wrote a chapter for *Game AI Uncovered Volume 5*.  
 
-Beyond development, I also lecture in higher education, sharing my knowledge and fostering creativity in the next generation of developers.
+Always curious, always experimenting, and always up for a challenge. 🚀
 
 ---
 
 ## 🛠️ Tech & Tools
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
-![Perforce](https://img.shields.io/badge/-Perforce-404040?logo=perforce&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+### 📚 Engines, Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white)
+
+### 🗄️ Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
+![Perforce](https://img.shields.io/badge/-Perforce-404040?logo=perforce&logoColor=white)
+
+### ⚙️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+
+### 📋 Methodologies
 ![Agile / Scrum](https://img.shields.io/badge/-Agile%20%2F%20Scrum-28A745?logo=trello&logoColor=white)
+![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=jira&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0FFF?logo=azuredevops&logoColor=white)
 
 ---
 
