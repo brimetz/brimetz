@@ -23,7 +23,6 @@ Always curious, always experimenting, and always up for a challenge. 🚀
 ---
 
 ## 🛠️ Tech & Tools
-<p align="center">
   
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
@@ -56,7 +55,6 @@ Always curious, always experimenting, and always up for a challenge. 🚀
 ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=jira&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0FFF?logo=azuredevops&logoColor=white)
 
-</p>
 ---
 
 ## 📌 Current Projects
@@ -74,7 +72,9 @@ Always curious, always experimenting, and always up for a challenge. 🚀
 ---
 
 ## 📊 Stats
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=brimetz&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brimetz&layout=compact&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
