@@ -3,7 +3,7 @@
 🎮 **AI Programmer** in the video game industry at [Cyanide Studio](https://www.cyanide-studio.com/)  
 🛠 Part of the **BFME: Reforged** development team  
 📖 Author of a chapter in *Game AI Uncovered – Volume 5*  
-🎓 Lecturer in higher education (Programming & AI) at [Isart Digital Paris](https://www.isartdigital.com/fr/)
+🎓 Lecturer in higher education (Programming & AI) at [Isart Digital Paris](https://www.isartdigital.com/fr/)   
 🌍 Passionate about AI, DevOps, Software Engineering, and globally solving problems
 
 ---
