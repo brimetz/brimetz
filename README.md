@@ -3,7 +3,7 @@
 🎮 **AI Programmer** in the video game industry at [Cyanide Studio](https://www.cyanide-studio.com/)  
 🛠 Part of the **BFME: Reforged** development team  
 📖 Author of a chapter in *Game AI Uncovered – Volume 5*  
-🎓 Lecturer in higher education (Programming & AI)  
+🎓 Lecturer in higher education (Programming & AI) at [Isart Digital Paris](https://www.isartdigital.com/fr/) 
 🌍 Passionate about AI, DevOps, Software Engineering, and globally solving problems
 
 ---
@@ -67,13 +67,11 @@ Always curious, always experimenting, and always up for a challenge. 🚀
 ---
 
 ## 📜 Publications
-*Game AI Uncovered – Volume 5*: Cooperative Planners in Real-Time Strategy Games
 ✍️ Chapter in *[Game AI Uncovered, Volume 5](https://www.taylorfrancis.com/books/edit/10.1201/9781003324102/game-ai-uncovered-paul-roberts)* : Cooperative Planners in Real-Time Strategy Games
 
 ---
 
 ## 📊 Stats
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=brimetz&show_icons=true&theme=tokyonight)
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=brimetz&layout=compact&theme=tokyonight)
 
 ---
