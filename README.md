@@ -14,11 +14,13 @@
 
 ## About Me
 
-I'm a software engineer with a background in video games and defense. I love tackling tricky problems, learning new tech, and building things that just work.  
+I'm a software engineer with a background in video games and defense. I enjoy solving complex problems, exploring new technologies, and building reliable systems.
 
-Lately, I've been diving deeper into software engineering, exploring CI/CD, DevOps, and sharpening my SQL skills. Outside of coding, I’ve contributed to projects like BFME Reforged and even wrote a chapter for *Game AI Uncovered Volume 5*.  
+Recently, I’ve been sharpening my problem-solving skills through algorithmic challenges on platforms like LeetCode, while continuing to grow my expertise in software engineering, CI/CD, and DevOps.
 
-Always curious, always experimenting, and always up for a challenge. 🚀
+Outside of work, I’ve contributed to projects such as BFME Reforged and co-authored a chapter in Game AI Uncovered – Volume 5.
+
+Always curious, always experimenting, and always ready to take on new challenges. 🚀
 
 ---
 
