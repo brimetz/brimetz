@@ -64,7 +64,7 @@ Always curious, always experimenting, and always ready to take on new challenges
 |---------|-------------|------|
 | 🎬 **Styx: Blades of Greed** | Third person stealth game | [View video](https://www.youtube.com/watch?v=ZleFS3upA1A&ab_channel=Nacon) |
 | 🛠 **CI/CD Pipeline** | Automated testing and deployment | [View repo](https://github.com/brimetz/MovieRecommenderSystem) |
-| 🎮 **BFME: Reforged** | AI development for a classic RTS remake (Fan project) | *(Private project)* |
+| 🎮 **BFME: Reforged** | AI development for a classic RTS remake (Fan project) | [View video](https://www.youtube.com/watch?v=IfyRmdzW8QU&ab_channel=Resonant) |
 
 ---
 
