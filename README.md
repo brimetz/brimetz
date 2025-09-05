@@ -62,7 +62,7 @@ Always curious, always experimenting, and always ready to take on new challenges
 ## 📌 Current Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎬 **Movie Recommendation System** | Movie recommendations with NLP + ML | [View repo](https://github.com/brimetz/MovieRecommenderSystem) |
+| 🎬 **Styx: Blades of Greed** | Third person stealth game | [View video](https://www.youtube.com/watch?v=ZleFS3upA1A&ab_channel=Nacon) |
 | 🛠 **CI/CD Pipeline** | Automated testing and deployment | [View repo](https://github.com/brimetz/MovieRecommenderSystem) |
 | 🎮 **BFME: Reforged** | AI development for a classic RTS remake (Fan project) | *(Private project)* |
 
