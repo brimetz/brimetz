@@ -51,6 +51,7 @@ Always curious, always experimenting, and always ready to take on new challenges
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 📋 Methodologies
 ![Agile / Scrum](https://img.shields.io/badge/-Agile%20%2F%20Scrum-28A745?logo=trello&logoColor=white)
@@ -77,7 +78,8 @@ Always curious, always experimenting, and always ready to take on new challenges
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brimetz&layout=compact&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brimetz&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Baptiti?theme=dark&font=Karma&ext=contest)
 ---
 
 ## 📫 Contacts
