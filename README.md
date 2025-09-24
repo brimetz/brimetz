@@ -50,6 +50,7 @@ Always curious, always experimenting, and always ready to take on new challenges
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📋 Methodologies
 ![Agile / Scrum](https://img.shields.io/badge/-Agile%20%2F%20Scrum-28A745?logo=trello&logoColor=white)
