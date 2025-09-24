@@ -76,9 +76,12 @@ Always curious, always experimenting, and always ready to take on new challenges
 
 ## 📊 Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brimetz&layout=compact&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=brimetz&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://leetcard.jacoblin.cool/Baptiti?theme=dark&font=Karma&ext=contest" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brimetz&layout=compact&theme=tokyonight" alt="Top Langs" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brimetz&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Baptiti?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="500"/>
 </p>
 
 ---
