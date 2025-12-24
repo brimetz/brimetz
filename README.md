@@ -2,7 +2,7 @@
 
 🎮 **AI Programmer** in the video game industry at [Cyanide Studio](https://www.cyanide-studio.com/)  
 🛠 Part of the [**BFME: Reforged**](https://www.youtube.com/watch?v=MLLQLfExank) development team  
-📖 Author of a chapter in *Game AI Uncovered – Volume 5*  
+📖 Author of a chapter in *Game AI Uncovered – Volume 4*  
 🎓 Lecturer in higher education (Programming & AI) at [Isart Digital Paris](https://www.isartdigital.com/fr/)   
 🌍 Passionate about AI, DevOps, Software Engineering, and globally solving problems
 
@@ -14,13 +14,11 @@
 
 ## About Me
 
-I'm a software engineer with a background in video games and defense. I enjoy solving complex problems, exploring new technologies, and building reliable systems.
+I design and implement game AI systems with a strong focus on robustness, performance, and gameplay impact. I enjoy working at the intersection of AI, software engineering, and game development, turning complex problems into clear and maintainable solutions.
 
-Recently, I’ve been sharpening my problem-solving skills through algorithmic challenges on platforms like LeetCode, while continuing to grow my expertise in software engineering, CI/CD, and DevOps.
+I’m particularly interested in decision-making systems, behavior modeling, and algorithmic problem-solving, and I continuously refine my skills through hands-on experimentation and coding challenges.
 
-Outside of work, I’ve contributed to projects such as BFME Reforged and co-authored a chapter in Game AI Uncovered – Volume 5.
-
-Always curious, always experimenting, and always ready to take on new challenges. 🚀
+Driven by curiosity and a passion for well-crafted systems, I’m always looking for better ways to build smarter, more reliable game AI. 🚀
 
 ---
 
@@ -64,13 +62,12 @@ Always curious, always experimenting, and always ready to take on new challenges
 | Project | Description | Link |
 |---------|-------------|------|
 | 🎬 **Styx: Blades of Greed** | Third person stealth game | [View video](https://www.youtube.com/watch?v=ZleFS3upA1A&ab_channel=Nacon) |
-| 🛠 **CI/CD Pipeline** | Automated testing and deployment | [View repo](https://github.com/brimetz/MovieRecommenderSystem) |
 | 🎮 **BFME: Reforged** | AI development for a classic RTS remake (Fan project) | [View video](https://www.youtube.com/watch?v=IfyRmdzW8QU&ab_channel=Resonant) |
 
 ---
 
 ## 📜 Publications
-✍️ Chapter in *[Game AI Uncovered, Volume 5](https://www.taylorfrancis.com/books/edit/10.1201/9781003324102/game-ai-uncovered-paul-roberts)* : Cooperative Planners in Real-Time Strategy Games
+✍️ Chapter in *[Game AI Uncovered, Volume 4](https://www.taylorfrancis.com/books/edit/10.1201/9781003324102/game-ai-uncovered-paul-roberts)* : Cooperative Planners in Real-Time Strategy Games
 
 ---
 
