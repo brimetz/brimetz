@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Baptiste</h1>
 
-🎮 **AI Programmer** in the video game industry at [Cyanide Studio](https://www.cyanide-studio.com/)  
+🎮 **AI Programmer** in the video game industry currently at [Quantic Dream](https://www.quanticdream.com/fr) and previously at [Cyanide Studio](https://www.cyanide-studio.com/)  
 🛠 Part of the [**BFME: Reforged**](https://www.youtube.com/watch?v=MLLQLfExank) development team  
 📖 Author of a chapter in *Game AI Uncovered – Volume 4*  
 🎓 Lecturer in higher education (Programming & AI) at [Isart Digital Paris](https://www.isartdigital.com/fr/)   
@@ -44,7 +44,6 @@ Driven by curiosity and a passion for well-crafted systems, I’m always looking
 ![Perforce](https://img.shields.io/badge/-Perforce-404040?logo=perforce&logoColor=white)
 
 ### ⚙️ Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
@@ -58,10 +57,12 @@ Driven by curiosity and a passion for well-crafted systems, I’m always looking
 
 ---
 
-## 📌 Current Projects
+## 📌 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎬 **Styx: Blades of Greed** | Third person stealth game | [View video](https://www.youtube.com/watch?v=ZleFS3upA1A&ab_channel=Nacon) |
+| 🎬 **Star Wars Eclipse** | 3rd-person action-aventure game | [View video](https://www.youtube.com/watch?v=4cJpiOPKH14) |
+| 🎬 **Spellcasters Chronicles** | 3rd-person action-strategy game | [View video](https://www.youtube.com/watch?v=eqdHx4sWWp4) |
+| 🎬 **Styx: Blades of Greed** | 3rd-person stealth game | [View video](https://www.youtube.com/watch?v=ZleFS3upA1A&ab_channel=Nacon) |
 | 🎮 **BFME: Reforged** | AI development for a classic RTS remake (Fan project) | [View video](https://www.youtube.com/watch?v=IfyRmdzW8QU&ab_channel=Resonant) |
 
 ---
@@ -84,5 +85,5 @@ Driven by curiosity and a passion for well-crafted systems, I’m always looking
 ---
 
 ## 📫 Contacts
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([URL_DE_TON_LINKEDIN](https://www.linkedin.com/in/baptiste-rimetz/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-rimetz/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:baptiste.rimetz@outlook.fr)
