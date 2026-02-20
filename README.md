@@ -60,15 +60,15 @@ Driven by curiosity and a passion for well-crafted systems, I’m always looking
 ## 📌 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎬 **Star Wars Eclipse** | 3rd-person action-aventure game | [View video](https://www.youtube.com/watch?v=4cJpiOPKH14) |
-| 🎬 **Spellcasters Chronicles** | 3rd-person action-strategy game | [View video](https://www.youtube.com/watch?v=eqdHx4sWWp4) |
-| 🎬 **Styx: Blades of Greed** | 3rd-person stealth game | [View video](https://www.youtube.com/watch?v=ZleFS3upA1A&ab_channel=Nacon) |
+| 🎬 **Star Wars Eclipse** | To Define | [View video](https://www.youtube.com/watch?v=4cJpiOPKH14) |
+| 🎬 **Spellcasters Chronicles** | 3rd-person action-strategy game (MOBA) | [View video](https://www.youtube.com/watch?v=eqdHx4sWWp4) |
+| 🎬 **Styx: Blades of Greed** | 3rd-person stealth game | [View video](https://www.youtube.com/watch?v=3mnxjDNe5cI) |
 | 🎮 **BFME: Reforged** | AI development for a classic RTS remake (Fan project) | [View video](https://www.youtube.com/watch?v=IfyRmdzW8QU&ab_channel=Resonant) |
 
 ---
 
 ## 📜 Publications
-✍️ Chapter in *[Game AI Uncovered, Volume 4](https://www.taylorfrancis.com/books/edit/10.1201/9781003324102/game-ai-uncovered-paul-roberts)* : Cooperative Planners in Real-Time Strategy Games
+✍️ Chapter in *[Game AI Uncovered, Volume 4](https://www.routledge.com/Game-AI-Uncovered-Volume-Four/Roberts/p/book/9781032824833)* : Cooperative Planners in Real-Time Strategy Games
 
 ---
 
